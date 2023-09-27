@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "sofa1",
+        "price": 120.34,
+        "imgUrl": "/imgs/sofa1.png"
+    },
+    {
+        "id": 2,
+        "name": "sofa2",
+        "price": 320.34,
+        "imgUrl": "/imgs/sofa2.png"
+    },
+    {
+        "id": 3,
+        "name": "sofa3",
+        "price": 456.34,
+        "imgUrl": "/imgs/sofa3.png"
+    },
+    {
+        "id": 4,
+        "name": "sofa4",
+        "price": 120.34,
+        "imgUrl": "/imgs/sofa4.png"
+    }
+]
